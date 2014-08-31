@@ -1,0 +1,69 @@
+\documentclass[11pt]{article}
+\usepackage{MyTemplate}
+\begin{document}
+\input{title}
+
+\settextfont[Scale=1]{XB Yas}
+\setlatintextfont[Scale=0.95]{Times New Roman}
+%\settextfont{B Nazanin}
+%\settextfont{XB Yas}
+%\settextfont{XB Kayhan}
+
+{\bf {چکيده: }}
+در فولان و بهمان
+
+
+{\bf  { واژه‌های کلیدی: }}
+فولان، بهمان.
+
+\setlength{\parindent}{0.25in} %The indent of the paragraph first line
+
+\section{مقدمه}\label{intro}
+% تعریف مسئله
+% کاربردها
+% مراحل مختلف یک ردیاب عمومی
+
+
+% اهمیت موضوع
+مسئله مطرح بوده است.
+
+% چالش‌ها
+مسئله در حالت کلی بسیار مشکل است.
+
+
+یک مسئله معکوس است. 
+
+% دیتا ست و معیارهای مقایسه
+برای مقایسه کارایی باشد.
+
+
+\section{کارهای پیشین}\label{sec2}
+به صورت یک مسئله تخمین حالت  سیستم پویا\footnote{\lr{Dynamic System}} در نظر گرفت.
+\begin{equation}\label{equ:bayes}
+p(X_t|\mathcal{I}_t) \propto  \underbrace{p(I_t|X_t)}_\text{درستنمایی}  \int{ \underbrace{p(X_t|X_{t-1})}_\text{مدل جابجایی} p(X_{t-1}|\mathcal{I}_{t-1}) dX_{t-1}}
+\end{equation}
+
+\linespread{1}
+\small
+\setlength{\parskip}{0pt}
+\setlength{\parsep}{0pt}
+
+\renewcommand{\bibname}{مراجع}
+\begin{latin}
+\bibliographystyle{IEEEtran}
+%\bibliography{IEEEfull,ref}
+\bibliography{IEEEabrv,ref}
+\end{latin}
+
+%\renewcommand{\bibname}{مراجع}
+%\bibliographystyle{unsrt-fa} % such as plain-fa
+%\bibliography{ref}
+
+
+\section*{واژه‌نامه}
+%\begin{LTR}
+\begin{multicols}{3}
+\theendnotes 
+\end{multicols}
+%\end{LTR}
+\end{document}
