@@ -5,6 +5,30 @@ classification}
 \@endanenote 
 \@doanenote {2}
 macro:->\lr
+{Computer
+-
+Keyboard}
+\@endanenote 
+\@doanenote {3}
+macro:->\lr
+{Subclass}
+\@endanenote 
+\@doanenote {4}
+macro:->\lr
+{Fine-grained
+image
+classification}
+\@endanenote 
+\@doanenote {5}
+macro:->\lr
+{Tern}
+\@endanenote 
+\@doanenote {6}
+macro:->\lr
+{Discriminative}
+\@endanenote 
+\@doanenote {7}
+macro:->\lr
 {Dynamic
 System}
 \@endanenote 
