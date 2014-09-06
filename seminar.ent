@@ -29,6 +29,23 @@ macro:->\lr
 \@endanenote 
 \@doanenote {7}
 macro:->\lr
-{Dynamic
-System}
+{Content
+based
+image
+retrieval}
+\@endanenote 
+\@doanenote {8}
+macro:->\lr
+{Surveillance
+systems}
+\@endanenote 
+\@doanenote {9}
+macro:->\lr
+{Object
+classification}
+\@endanenote 
+\@doanenote {10}
+macro:->\lr
+{Scene
+classification}
 \@endanenote 
