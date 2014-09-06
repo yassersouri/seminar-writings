@@ -49,3 +49,35 @@ macro:->\lr
 {Scene
 classification}
 \@endanenote 
+\@doanenote {11}
+macro:->\lr
+{Attribute
+recognition}
+\@endanenote 
+\@doanenote {12}
+macro:->\lr
+{Action
+recognition}
+\@endanenote 
+\@doanenote {13}
+macro:->\lr
+{Bag
+of
+keypoints}
+\@endanenote 
+\@doanenote {14}
+macro:->\lr
+{Keypoints}
+\@endanenote 
+\@doanenote {15}
+macro:->Dense
+\@endanenote 
+\@doanenote {16}
+macro:->\lr
+{Vector
+quantization}
+\@endanenote 
+\@doanenote {17}
+macro:->\lr
+{Clusters}
+\@endanenote 
