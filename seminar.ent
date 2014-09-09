@@ -61,9 +61,7 @@ recognition}
 \@endanenote 
 \@doanenote {13}
 macro:->\lr
-{Bag
-of
-keypoints}
+{Coding}
 \@endanenote 
 \@doanenote {14}
 macro:->\lr
@@ -80,4 +78,91 @@ quantization}
 \@doanenote {17}
 macro:->\lr
 {Clusters}
+\@endanenote 
+\@doanenote {18}
+macro:->\lr
+{Bag
+of
+keypoints}
+\@endanenote 
+\@doanenote {19}
+macro:->\lr
+{Pooling}
+\@endanenote 
+\@doanenote {20}
+macro:->\lr
+{Average
+pooling}
+\@endanenote 
+\@doanenote {21}
+macro:->\lr
+{Spatial
+pyramid
+matching}
+\@endanenote 
+\@doanenote {22}
+macro:->\lr
+{Support
+Vector}
+\@endanenote 
+\@doanenote {23}
+macro:->\lr
+{Regularization}
+\@endanenote 
+\@doanenote {24}
+macro:->\lr
+{Deep
+learning}
+\@endanenote 
+\@doanenote {25}
+macro:->\lr
+{Confusion
+matrix}
+\@endanenote 
+\@doanenote {26}
+macro:->\lr
+{Subclass}
+\@endanenote 
+\@doanenote {27}
+macro:->\lr
+{Fine-grained
+image
+classification}
+\@endanenote 
+\@doanenote {28}
+macro:->\lr
+{Basic
+level}
+\@endanenote 
+\@doanenote {29}
+macro:->\lr
+{Sub-ordinate
+level}
+\@endanenote 
+\@doanenote {30}
+macro:->\lr
+{Bounding
+box}
+\@endanenote 
+\@doanenote {31}
+macro:->\lr
+{Segmentation}
+\@endanenote 
+\@doanenote {32}
+macro:->\lr
+{Object
+detection}
+\@endanenote 
+\@doanenote {33}
+macro:->\lr
+{Crowdsourcing}
+\@endanenote 
+\@doanenote {34}
+macro:->\lr
+{Shape}
+\@endanenote 
+\@doanenote {35}
+macro:->\lr
+{Data
+augmentation}
 \@endanenote 
