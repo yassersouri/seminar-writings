@@ -125,43 +125,37 @@ macro:->\lr
 \@endanenote 
 \@doanenote {27}
 macro:->\lr
-{Fine-grained
-image
-classification}
-\@endanenote 
-\@doanenote {28}
-macro:->\lr
 {Basic
 level}
 \@endanenote 
-\@doanenote {29}
+\@doanenote {28}
 macro:->\lr
 {Sub-ordinate
 level}
 \@endanenote 
-\@doanenote {30}
+\@doanenote {29}
 macro:->\lr
 {Bounding
 box}
 \@endanenote 
-\@doanenote {31}
+\@doanenote {30}
 macro:->\lr
 {Segmentation}
 \@endanenote 
-\@doanenote {32}
+\@doanenote {31}
 macro:->\lr
 {Object
 detection}
 \@endanenote 
-\@doanenote {33}
+\@doanenote {32}
 macro:->\lr
 {Crowdsourcing}
 \@endanenote 
-\@doanenote {34}
+\@doanenote {33}
 macro:->\lr
 {Shape}
 \@endanenote 
-\@doanenote {35}
+\@doanenote {34}
 macro:->\lr
 {Data
 augmentation}
